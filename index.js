@@ -36,3 +36,5 @@ image2.setAttribute('src', randomImageSource);
 randomNumber1 > randomNumber2 ? document.querySelector("h1").innerHTML = "player one wins"
 :randomNumber2 > randomNumber1 ? document.querySelector("h1").innerHTML = "player two wins" 
 :document.querySelector("h1").innerHTML = "draw";
+
+
